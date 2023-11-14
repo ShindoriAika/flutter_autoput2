@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701431148668",
+    "project_id": "flutter-autoput2",
+    "storage_bucket": "flutter-autoput2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701431148668:android:fa5a95ab657e53a58c99f9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_autoput2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1maQ7iV45FydvFUbQeV92OLNDFP3ZI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
